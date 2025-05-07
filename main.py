@@ -10,7 +10,7 @@ ADMIN_IDS = [7563861429]
 # with open(r'c:\\Users\\Matvejs Upesleja\\Desktop\\bottoken1.txt', 'r') as f:
     # TOKEN = f.read().strip()
 
-TOKEN = "8186410739:AAEEtXs3_9oqRB1QhPCgbCxJzugO6zLy5vw"
+TOKEN = input("Isert token: ")
 
 print("\nBot Started...\n")
 
